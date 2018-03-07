@@ -18,7 +18,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="http://seputarkota.com/wp-content/uploads/2018/02/banner_cariaja_1080px_download-skrg-02-01.png" alt="Cari Aja, Aplikasi Pencarian Tempat Sekitar" /></span>
+							<span class="avatar"><img src="#" alt="Cari Aja, Aplikasi Pencarian Tempat Sekitar" /></span>
 							<h1>Cari Aja</h1>
 							<p><a href="http://cariaja.com/">Cari Aja </a> Aplikasi pencarian tempat sekitar terlengkap di Indonesia</p>
 						</header>

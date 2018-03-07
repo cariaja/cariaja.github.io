@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>CARI AJA INDONESIA | Aplikasi Pencarian Tempat Sekitar</title>
+<meta content="Cari Aja adalah aplikasi pencarian tempat sekitar terlengkap di Indonesia. Anda dapat menemukan tempat tempat seperti Restoran, SPBU, ATM, Toko, Bank, Hotel." name="description" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-loading">
 
-You can use the [editor on GitHub](https://github.com/cariaja/cariaja.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="http://seputarkota.com/wp-content/uploads/2018/02/banner_cariaja_1080px_download-skrg-02-01.png" alt="Cari Aja, Aplikasi Pencarian Tempat Sekitar" /></span>
+							<h1>Cari Aja</h1>
+							<p><a href="http://cariaja.com/">Cari Aja </a> Aplikasi pencarian tempat sekitar terlengkap di Indonesia</p>
+						</header>
+						<!--
+						<hr />
+						<h2>Extra Stuff!</h2>
+						<form method="post" action="#">
+							<div class="field">
+								<input type="text" name="name" id="name" placeholder="Name" />
+							</div>
+							<div class="field">
+								<input type="email" name="email" id="email" placeholder="Email" />
+							</div>
+							<div class="field">
+								<div class="select-wrapper">
+									<select name="department" id="department">
+										<option value="">Department</option>
+										<option value="sales">Sales</option>
+										<option value="tech">Tech Support</option>
+										<option value="null">/dev/null</option>
+									</select>
+								</div>
+							</div>
+							<div class="field">
+								<textarea name="message" id="message" placeholder="Message" rows="4"></textarea>
+							</div>
+							<div class="field">
+								<input type="checkbox" id="human" name="human" /><label for="human">I'm a human</label>
+							</div>
+							<div class="field">
+								<label>But are you a robot?</label>
+								<input type="radio" id="robot_yes" name="robot" /><label for="robot_yes">Yes</label>
+								<input type="radio" id="robot_no" name="robot" /><label for="robot_no">No</label>
+							</div>
+							<ul class="actions">
+								<li><a href="#" class="button">Get Started</a></li>
+							</ul>
+						</form>
+						<hr />
+						-->
+						<footer>
+							<ul class="icons">
+								<li><a href="https://twitter.com/cariajacom" class="fa-twitter">Twitter</a></li>
+								<li><a href="instagram.com/cariajacom/" class="fa-instagram">Instagram</a></li>
+								<li><a href="https://www.facebook.com/cariajacom" class="fa-facebook">Facebook</a></li>
+                <li><a href="https://www.youtube.com/channel/UCOJJPl5WN_oUPtIz5z5UZ0w" class="fa-facebook"Youtube</a></li>
 
-### Markdown
+							</ul>
+						</footer>
+					</section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li><a href="http://www.cariaja.com/">Cari Aja, Aplikasi Pencarian Tempat</a></li> <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
 
-```markdown
-Syntax highlighted code block
+			</div>
 
-# Header 1
-## Header 2
-### Header 3
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cariaja/cariaja.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>

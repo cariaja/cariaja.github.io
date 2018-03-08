@@ -1,54 +1,95 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<!--
+	Identity by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 	<head>
-		<meta charset=utf-8 />
-		<title>My blog</title>
+		<title>Identity by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
-	<body>
-		<header>
-			<h1>My blog</h1>
-		</header>
-			<nav>
-				<ol>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="portfolio.html">Portfolio</a></li>
-					<li><a href="about.html">About me</a></li>
-					<li><a href="contact.html">Contact me</a></li>
-				</ol>
-			</nav>
-		<article>
-			<p>Posted by Author on February 3, 2012</p>
-			<h2>My favorite links</h2>
-			<h3>School</h3>
-			<ul>
-				<li>I attend <a href="http://www.utexas.edu">UT</a></li>
-				<li>I am a student in the <a href="http://www.edb.utexas.edu/education/departments/ci/programs/it/">Learning Technologies</a> program</li>
-			</ul>
-			<h3>Web Design</h3>
-			<ul>
-				<li><a href="http://net.tutsplus.com/">Nettuts</a> contains many great web tutorials</li>
-				<li><a href="http://www.makebetterwebsites.com">Make Better Web sites</a> is a great place to get inspiration</li>
-			</ul>
-		</article>
-		<article>
-			<h2>My pet parrot</h2>
-			<p>Posted by Author on February 2, 2012</p>
-			<img src="img/parrot.jpg" width="480" height="480" alt="My pet parrot hanging out in the backyard" />
-			<p>My pet parrot hanging out in the backyard</p>
-		</article>
-		<article>
-			<h2>Learning HTML5</h2>
-			<p>Posted by Author on February 1, 2012</p>
-			<p>I'm learning HTML5 and so far, it's going great! I have learned a few things that I thought I would share:</p>
-			<ol>
-				<li>HTML is easy!</li>
-				<li>HTML is used to structure content</li>
-				<li>HTML is used alongside CSS and JavaScript to build web pages</li>
-			</ol>
-		</article>
-		<footer>
-			<p>&copy;2012 The author <br />
-			<a href="mailto:author@email.com">E-mail the author</a></p>
-		</footer>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+							<h1>Jane Doe</h1>
+							<p>Senior Psychonautics Engineer</p>
+						</header>
+						<!--
+						<hr />
+						<h2>Extra Stuff!</h2>
+						<form method="post" action="#">
+							<div class="field">
+								<input type="text" name="name" id="name" placeholder="Name" />
+							</div>
+							<div class="field">
+								<input type="email" name="email" id="email" placeholder="Email" />
+							</div>
+							<div class="field">
+								<div class="select-wrapper">
+									<select name="department" id="department">
+										<option value="">Department</option>
+										<option value="sales">Sales</option>
+										<option value="tech">Tech Support</option>
+										<option value="null">/dev/null</option>
+									</select>
+								</div>
+							</div>
+							<div class="field">
+								<textarea name="message" id="message" placeholder="Message" rows="4"></textarea>
+							</div>
+							<div class="field">
+								<input type="checkbox" id="human" name="human" /><label for="human">I'm a human</label>
+							</div>
+							<div class="field">
+								<label>But are you a robot?</label>
+								<input type="radio" id="robot_yes" name="robot" /><label for="robot_yes">Yes</label>
+								<input type="radio" id="robot_no" name="robot" /><label for="robot_no">No</label>
+							</div>
+							<ul class="actions">
+								<li><a href="#" class="button">Get Started</a></li>
+							</ul>
+						</form>
+						<hr />
+						-->
+						<footer>
+							<ul class="icons">
+								<li><a href="#" class="fa-twitter">Twitter</a></li>
+								<li><a href="#" class="fa-instagram">Instagram</a></li>
+								<li><a href="#" class="fa-facebook">Facebook</a></li>
+							</ul>
+						</footer>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Jane Doe</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
 	</body>
 </html>

@@ -67,9 +67,9 @@
 						<footer>
 							<ul class="icons">
 								<li><a href="https://twitter.com/cariajacom" class="fa-twitter">Twitter</a></li>
-								<li><a href="instagram.com/cariajacom/">Instagram</a></li>
 								<li><a href="https://www.facebook.com/cariajacom/" class="fa-facebook">Facebook</a></li>
 								<li><a href="https://www.youtube.com/channel/UCOJJPl5WN_oUPtIz5z5UZ0w">Youtube</a></li>
+								<li><a href="instagram.com/cariajacom">Instagram</a></li>
 							</ul>
 						</footer>
 					</section>

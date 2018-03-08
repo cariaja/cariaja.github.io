@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <!--
 	Identity by HTML5 UP
 	html5up.net | @ajlkn
@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Identity by HTML5 UP</title>
+		<title>CARI AJA INDONESIA</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
@@ -23,9 +23,9 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="https://raw.githubusercontent.com/cariaja/cariaja.github.io/master/avatar.jpg" alt="" /></span>
-							<h1>Jane Doe</h1>
-							<p>Senior Psychonautics Engineer</p>
+							<span class="avatar"><img src="https://raw.githubusercontent.com/cariaja/cariaja.github.io/master/avatar.jpg" alt="Cari Aja, Aplikasi Pencarian Tempat Indonesia" /></span>
+							<h1>CARI AJA INDONESIA</h1>
+							<p>Mau Apa Aja, Cari Aja</p>
 						</header>
 						<!--
 						<hr />
@@ -66,9 +66,9 @@
 						-->
 						<footer>
 							<ul class="icons">
-								<li><a href="#" class="fa-twitter">Twitter</a></li>
-								<li><a href="#" class="fa-instagram">Instagram</a></li>
-								<li><a href="#" class="fa-facebook">Facebook</a></li>
+								<li><a href="https://twitter.com/cariajacom" class="fa-twitter">Twitter</a></li>
+								<li><a href="instagram.com/cariajacom/" class="fa-instagram">Instagram</a></li>
+								<li><a href="https://www.facebook.com/cariajacom/" class="fa-facebook">Facebook</a></li>
 							</ul>
 						</footer>
 					</section>

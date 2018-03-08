@@ -23,7 +23,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+							<span class="avatar"><img src="https://raw.githubusercontent.com/cariaja/cariaja.github.io/master/avatar.jpg" alt="" /></span>
 							<h1>Jane Doe</h1>
 							<p>Senior Psychonautics Engineer</p>
 						</header>

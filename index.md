@@ -25,7 +25,7 @@
 						<header>
 							<span class="avatar"><img src="https://raw.githubusercontent.com/cariaja/cariaja.github.io/master/avatar.jpg" alt="Cari Aja, Aplikasi Pencarian Tempat Indonesia" /></span>
 							<h1>CARI AJA INDONESIA</h1>
-							<p>Mau Apa Aja, Cari Aja</p>
+							<p>Cari Aja adalah aplikasi pencarian tempat terlengkap di Indonesia. Anda dapat menemukan tempat tempat seperti Restoran, SPBU, ATM, Toko, Hotel, Bank serta Tempat Perbelanjaan dan masih banyak lagi di sekitar anda. Cari Aja juga membantu memberikan informasi tempat terdekat, rute serta arahan ketempat yang anda cari. Mau Apa Aja, Cari Aja!</p>
 						</header>
 						<!--
 						<hr />
@@ -67,8 +67,9 @@
 						<footer>
 							<ul class="icons">
 								<li><a href="https://twitter.com/cariajacom" class="fa-twitter">Twitter</a></li>
-								<li><a href="instagram.com/cariajacom/" class="fa-instagram">Instagram</a></li>
+								<li><a href="instagram.com/cariajacom/">Instagram</a></li>
 								<li><a href="https://www.facebook.com/cariajacom/" class="fa-facebook">Facebook</a></li>
+								<li><a href="https://www.youtube.com/channel/UCOJJPl5WN_oUPtIz5z5UZ0w">Youtube</a></li>
 							</ul>
 						</footer>
 					</section>

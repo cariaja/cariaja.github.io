@@ -23,7 +23,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="https://raw.githubusercontent.com/cariaja/cariaja.github.io/master/avatar.jpg" alt="Cari Aja, Aplikasi Pencarian Tempat Indonesia" /></span>
+							<span class="avatar"><img src="https://raw.githubusercontent.com/cariaja/cariaja.github.io/master/1024.png" alt="Cari Aja, Aplikasi Pencarian Tempat Indonesia" /></span>
 							<h1>CARI AJA INDONESIA</h1>
 							<p>Cari Aja adalah aplikasi pencarian tempat terlengkap di Indonesia. Anda dapat menemukan tempat tempat seperti Restoran, SPBU, ATM, Toko, Hotel, Bank serta Tempat Perbelanjaan dan masih banyak lagi di sekitar anda. Cari Aja juga membantu memberikan informasi tempat terdekat, rute serta arahan ketempat yang anda cari. Mau Apa Aja, Cari Aja!</p>
 						</header>
